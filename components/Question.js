@@ -96,6 +96,7 @@ const styles = {
     borderRadius: 20,
   },
   questionText: {
+    fontWeight: 'bold',
     fontSize: 25,
     marginBottom: 10,
     textAlign: 'center',
